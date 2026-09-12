@@ -1,0 +1,3 @@
+latest=1.0.8
+url=HawkiAutoClicker.exe
+notes=Improved update installation when macros are enabled.
